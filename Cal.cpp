@@ -17,5 +17,5 @@ int main()
     printf("\n b = "); scanf("%lf", &b);
     printf("\n summa =%f", summa(a, b));
     return 0;
-    
+       
 }
