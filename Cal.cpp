@@ -9,7 +9,7 @@ double summa(double a, double b)
     return  a + b;
 }
 
-
+printf("Change on branch NEWiss53")
 int main()
 {
     double a, b, c;
