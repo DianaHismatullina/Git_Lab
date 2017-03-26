@@ -8,7 +8,7 @@ double summa(double a, double b)
 {
     return  a + b;
 }
-
+printf("\n Change on bransh iss53")
 
 int main()
 {
@@ -17,6 +17,6 @@ int main()
     printf("\n b = "); scanf("%lf", &b);
     printf("\n summa =%f", summa(a, b));
     return 0;
-   
+
 
 }
